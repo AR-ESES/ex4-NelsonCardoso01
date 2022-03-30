@@ -10,6 +10,7 @@ function setup() {
   background(0);
 }
 
+
 function draw() {
   
   for (let i = 1; i < espLarg; i++) {
